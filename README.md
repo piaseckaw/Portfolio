@@ -18,6 +18,7 @@ Hi, I'm Weronika. I graduated with a bachelor's degree in Game Design, which sta
 # Webinars
 * Naucz się testować manualnie
 * Testowanie REST API dla początkujących
+* Quality Assurance maraton online
 # My Test Documentation
 * Bug Reports
 * Test Reports
