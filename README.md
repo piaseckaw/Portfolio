@@ -7,6 +7,7 @@ Hi, I'm Weronika. I graduated with a bachelor's degree in Game Design, which sta
 * **Languages**: basic Java
 * **Version Control Systems**: Perforce, GIT
 * **Reporting errors**: JIRA, Trello
+* **Testing support tools**: TestRail
 # Tech skills
 * Agile and SCRUM
 * Software testing
@@ -20,7 +21,7 @@ Hi, I'm Weronika. I graduated with a bachelor's degree in Game Design, which sta
 * Testowanie REST API dla początkujących
 * Quality Assurance maraton online
 # My Test Documentation
-* Bug Reports
+* [Test Cases and Bug Reports](https://docs.google.com/spreadsheets/d/1-_pEESy3NcucoYfqzaeYQTbAwdyP2ACk/edit?usp=sharing&ouid=110111312379338388338&rtpof=true&sd=true)  for [GoIT](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) website.
 * Test Reports
 * Test Cases
 * Test Scenarios
