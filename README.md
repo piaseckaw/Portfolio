@@ -24,6 +24,4 @@ Hi, I'm Weronika. I graduated with a bachelor's degree in Game Design, which sta
 * Praktyczny Python
 # My Test Documentation
 * [Test Cases and Bug Reports](https://docs.google.com/spreadsheets/d/1-_pEESy3NcucoYfqzaeYQTbAwdyP2ACk/edit?usp=sharing&ouid=110111312379338388338&rtpof=true&sd=true)  for [GoIT](https://qa-autocheck-test.netlify.app/?token=d5fcc3783ba50fcac78b5a5ea8e4d69f6fe51ed8368bc618a58a846ad8b03a63&block=nop678917) website.
-* Test Reports
-* Test Cases
-* Test Scenarios
+
