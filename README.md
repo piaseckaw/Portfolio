@@ -7,7 +7,7 @@ I graduated with a bachelor's degree in Game Design, which started my passion fo
 * **Languages**: basic Java
 * **Version Control Systems**: Perforce, GIT
 * **Reporting errors**: JIRA, Trello
-* **Testing support tools**: TestRail
+* **Testing support tools**: TestRail, BrowserStack
 # Tech skills
 * Agile and SCRUM
 * Software testing
